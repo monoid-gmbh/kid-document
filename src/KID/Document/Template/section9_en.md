@@ -1,0 +1,3 @@
+# Other relevant information
+
+This key information document does not contain all information relating to this product. Please refer to the underlying prospectus for the legally binding terms and conditions of the product as well as a detailed description of the risks and rewards associated with this product. The prospectus is available on [bank](http://name.bank), and a paper copy of this document may be obtained free of charge from TODO. The information contained in this key information document does not constitute a recommendation to buy or sell the product and is no substitute for individual consultation with the investor's bank or advisor. Any updated version of this key information document will be published on: [bank](http://name.bank)

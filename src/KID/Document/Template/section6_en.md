@@ -1,0 +1,3 @@
+# What are the costs
+
+The Reduction in Yield (RIY) shows what impact the total costs the investor pays will have on the investment return the investor might get. The total costs take into account one-off, ongoing and incidental costs. The amounts shown here are the cumulative costs of the product itself. They include potential early exit penalties. The figures assume the investor invests CHF 10,000. The figures are estimates and may change in the future. The person selling to the investor or advising the investor about this product may charge other costs. If so, this person will provide the investor with information about these costs, and show the investor the impact that all costs will have on the investor’s investment over time.

@@ -1,0 +1,3 @@
+# Weitere relevante Informationen
+
+Dieses Basisinformationsblatt enthält nicht alle Informationen zu diesem Produkt. Die rechtlich verbindlichen Bedingungen des Produkts sowie eine detaillierte Beschreibung der mit diesem Produkt verbundenen Risiken und Chancen entnehmen Sie bitte dem zugrunde liegenden Prospekt. Der Prospekt ist auf [bank](http://this.bank) erhältlich und kann kostenlos in Papierform beim Emittenten angefordert werden. Die in diesem Dokument enthaltenen Informationen stellen keine Empfehlung zum Kauf oder Verkauf des Produkts dar und sind kein Ersatz für eine individuelle Beratung durch die Bank oder den Berater des Anlegers. Jede aktualisierte Version dieses Basisinformationsblatts wird veröffentlicht unter: [bank](http://this.bank)

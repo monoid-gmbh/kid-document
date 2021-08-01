@@ -1,0 +1,210 @@
+[Header 1 ("zweck",[],[]) [Str "Zweck"]
+,Para [Str "Dieses",Space,Str "Dokument",Space,Str "liefert",Space,Str "Ihnen",Space,Str "wichtige",Space,Str "Informationen",Space,Str "zu",Space,Str "diesem",Space,Str "Anlageprodukt.",Space,Str "Es",Space,Str "ist",Space,Str "kein",Space,Str "Marketingmaterial.",Space,Str "Die",Space,Str "Informationen",Space,Str "sind",Space,Str "gesetzlich",Space,Str "vorgeschrieben,",Space,Str "um",Space,Str "Ihnen",Space,Str "zu",Space,Str "helfen,",Space,Str "die",Space,Str "Art,",Space,Str "Risiken,",Space,Str "Kosten,",Space,Str "potenzielle",Space,Str "Gewinne",Space,Str "und",Space,Str "Verluste",Space,Str "dieses",Space,Str "Produkts",Space,Str "zu",Space,Str "verstehen",Space,Str "und",Space,Str "es",Space,Str "mit",Space,Str "anderen",Space,Str "Produkten",Space,Str "zu",Space,Str "vergleichen."]
+,Header 1 ("produkt",[],[]) [Str "Produkt"]
+,Table ("",[],[]) (Caption Nothing
+ [])
+ [(AlignLeft,ColWidthDefault)
+ ,(AlignDefault,ColWidthDefault)]
+ (TableHead ("",[],[])
+ [])
+ [(TableBody ("",[],[]) (RowHeadColumns 0)
+  []
+  [Row ("",[],[])
+   [Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Str "Name"]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Strong [Span ("ProductName",[],[]) []]]]]
+  ,Row ("",[],[])
+   [Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Str "ISIN"]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Str "-"]]]
+  ,Row ("",[],[])
+   [Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Str "Produkthersteller"]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Span ("Issuer",[],[]) []]]]
+  ,Row ("",[],[])
+   [Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Str "Zust\228ndige",Space,Str "Beh\246rde"]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Str "-"]]]])]
+ (TableFoot ("",[],[])
+ [])
+,Para [Strong [Str "Sie",Space,Str "sind",Space,Str "dabei,",Space,Str "ein",Space,Str "Produkt",Space,Str "zu",Space,Str "kaufen,",Space,Str "das",Space,Str "nicht",Space,Str "einfach",Space,Str "ist",Space,Str "und",Space,Str "m\246glicherweise",Space,Str "schwer",Space,Str "zu",Space,Str "verstehen",Space,Str "ist."]]
+,Header 1 ("um-welche-art-von-produkt-handelt-es-sich",[],[]) [Str "Um",Space,Str "welche",Space,Str "Art",Space,Str "von",Space,Str "Produkt",Space,Str "handelt",Space,Str "es",Space,Str "sich?"]
+,Header 2 ("art",[],[]) [Str "Art"]
+,Para [Str "Wertrechte",Space,Str "nach",Space,Str "Schweizer",Space,Str "Recht."]
+,Header 2 ("ziele",[],[]) [Str "Ziele"]
+,Para [Str "Das",Space,Str "Produkt",Space,Str "ist",Space,Str "ein",Space,Str "komplexes",Space,Str "Finanzinstrument,",Space,Str "gekoppelt",Space,Str "an",Space,Str "verschiedene",Space,Str "Basiswerte."]
+,Header 2 ("produktdaten",[],[]) [Str "Produktdaten"]
+,Para [Str "Zugrunde",Space,Str "liegende",Space,Str "Daten"]
+,Header 1 ("welche-risiken-bestehen-und-was-k\246nnte-ich-im-gegenzug-daf\252r-bekommen",[],[]) [Str "Welche",Space,Str "Risiken",Space,Str "bestehen",Space,Str "und",Space,Str "was",Space,Str "k\246nnte",Space,Str "ich",Space,Str "im",Space,Str "Gegenzug",Space,Str "daf\252r",Space,Str "bekommen?"]
+,Header 2 ("gesamtrisikoindikator",[],[]) [Str "Gesamtrisikoindikator"]
+,Para [Span ("fig",[],[("lower","Geringeres Risiko"),("higher","H\246heres Risiko")]) [Span ("sri",["var"],[]) [Str "SummaryRiskIndicator"]]]
+,Header 2 ("performance-szenarien",[],[]) [Str "Performance-Szenarien"]
+,Table ("",[],[]) (Caption Nothing
+ [])
+ [(AlignDefault,ColWidthDefault)
+ ,(AlignDefault,ColWidthDefault)
+ ,(AlignDefault,ColWidthDefault)
+ ,(AlignDefault,ColWidthDefault)
+ ,(AlignDefault,ColWidthDefault)]
+ (TableHead ("",[],[])
+ [])
+ [(TableBody ("",[],[]) (RowHeadColumns 0)
+  []
+  [Row ("",[],[])
+   [Cell ("",[],[]) AlignDefault (RowSpan 2) (ColSpan 1)
+    [Plain [Strong [Str "Stress",Space,Str "scenario"]]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Str "What",Space,Str "you",Space,Str "might",Space,Str "get",Space,Str "back",Space,Str "after",Space,Str "costs"]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Span ("strs_one_year",["2_digits"],[]) []]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Span ("strs_rhp_half",["2_digits"],[]) []]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Span ("strs_rhp",["2_digits"],[]) []]]]
+  ,Row ("",[],[])
+   [Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Str "Average",Space,Str "return",Space,Str "each",Space,Str "year"]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Span ("strs_one_year_ret",["2_digits"],[]) []]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Span ("strs_rhp_half_ret",["2_digits"],[]) []]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Span ("strs_rhp_ret",["2_digits"],[]) []]]]
+  ,Row ("",[],[])
+   [Cell ("",[],[]) AlignDefault (RowSpan 2) (ColSpan 1)
+    [Plain [Strong [Str "Unfavourable",Space,Str "scenario"]]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Str "What",Space,Str "you",Space,Str "might",Space,Str "get",Space,Str "back",Space,Str "after",Space,Str "costs"]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Span ("ufav_one_year",["2_digits"],[]) []]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Span ("ufav_rhp_half",["2_digits"],[]) []]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Span ("ufav_rhp",["2_digits"],[]) []]]]
+  ,Row ("",[],[])
+   [Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Str "Average",Space,Str "return",Space,Str "each",Space,Str "year"]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Span ("ufav_one_year_ret",["2_digits"],[]) []]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Span ("ufav_rhp_half_ret",["2_digits"],[]) []]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Span ("ufav_rhp_ret",["2_digits"],[]) []]]]
+  ,Row ("",[],[])
+   [Cell ("",[],[]) AlignDefault (RowSpan 2) (ColSpan 1)
+    [Plain [Strong [Str "Moderate",Space,Str "scenario"]]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Str "What",Space,Str "you",Space,Str "might",Space,Str "get",Space,Str "back",Space,Str "after",Space,Str "costs"]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Span ("mod_one_year",["2_digits"],[]) []]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Span ("mod_rhp_half",["2_digits"],[]) []]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Span ("mod_rhp",["2_digits"],[]) []]]]
+  ,Row ("",[],[])
+   [Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Str "Average",Space,Str "return",Space,Str "each",Space,Str "year"]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Span ("mod_one_year_ret",["2_digits"],[]) []]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Span ("mod_rhp_half_ret",["2_digits"],[]) []]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Span ("mod_rhp_ret",["2_digits"],[]) []]]]
+  ,Row ("",[],[])
+   [Cell ("",[],[]) AlignDefault (RowSpan 2) (ColSpan 1)
+    [Plain [Strong [Str "Favourable",Space,Str "scenario"]]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Str "What",Space,Str "you",Space,Str "might",Space,Str "get",Space,Str "back",Space,Str "after",Space,Str "costs"]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Span ("fav_one_year",["2_digits"],[]) []]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Span ("fav_rhp_half",["2_digits"],[]) []]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Span ("fav_rhp",["2_digits"],[]) []]]]
+  ,Row ("",[],[])
+   [Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Str "Average",Space,Str "return",Space,Str "each",Space,Str "year"]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Span ("fav_one_year_ret",["2_digits"],[]) []]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Span ("fav_rhp_half_ret",["2_digits"],[]) []]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Span ("fav_rhp_ret",["2_digits"],[]) []]]]])]
+ (TableFoot ("",[],[])
+ [])
+,Header 1 ("was-geschieht-wenn-der-emittent-nicht-in-der-lage-ist-die-auszahlung-vorzunehmen",[],[]) [Str "Was",Space,Str "geschieht,",Space,Str "wenn",Space,Str "der",Space,Str "Emittent",Space,Str "nicht",Space,Str "in",Space,Str "der",Space,Str "Lage",Space,Str "ist,",Space,Str "die",Space,Str "Auszahlung",Space,Str "vorzunehmen?"]
+,Para [Str "Wenn",Space,Str "der",Space,Str "Emittent",Space,Str "zahlungsunf\228hig",Space,Str "wird,",Space,Str "m\252ssen",Space,Str "Anleger",Space,Str "im",Space,Str "schlimmsten",Space,Str "Fall",Space,Str "mit",Space,Str "dem",Space,Str "Totalverlust",Space,Str "ihrer",Space,Str "Anlage",Space,Str "rechnen.",Space,Str "Das",Space,Str "Produkt",Space,Str "ist",Space,Str "nicht",Space,Str "durch",Space,Str "eine",Space,Str "gesetzliche",Space,Str "oder",Space,Str "sonstige",Space,Str "Einlagensicherung",Space,Str "abgedeckt.",Space,Str "Wenn",Space,Str "der",Space,Str "Emittent",Space,Str "und/oder",Space,Str "der",Space,Str "Garantiegeber",Space,Str "von",Space,Str "Abwicklungsmassnahmen",Space,Str "(z.",Space,Str "B.",Space,Str "Bail-in)",Space,Str "betroffen",Space,Str "sind,",Space,Str "k\246nnen",Space,Str "Ihre",Space,Str "Anspr\252che",Space,Str "auf",Space,Str "null",Space,Str "herabgesetzt,",Space,Str "in",Space,Str "Eigenkapital",Space,Str "umgewandelt",Space,Str "oder",Space,Str "dem",Space,Str "Verfalldatum",Space,Str "nach",Space,Str "ge\228ndert",Space,Str "werden."]
+,Header 1 ("was-sind-die-kosten",[],[]) [Str "Was",Space,Str "sind",Space,Str "die",Space,Str "Kosten?"]
+,Para [Str "Die",Space,Str "Renditeminderung",Space,Str "(Reduction",Space,Str "in",Space,Str "Yield",Space,Str "\8211",Space,Str "RIY)",Space,Str "zeigt,",Space,Str "wie",Space,Str "sich",Space,Str "die",Space,Str "vom",Space,Str "Investor",Space,Str "gezahlten",Space,Str "Gesamtkosten",Space,Str "auf",Space,Str "die",Space,Str "Anlagerendite,",Space,Str "die",Space,Str "der",Space,Str "Investor",Space,Str "erhalten",Space,Str "k\246nnte,",Space,Str "auswirken.",Space,Str "In",Space,Str "den",Space,Str "Gesamtkosten",Space,Str "sind",Space,Str "einmalige,",Space,Str "laufende",Space,Str "und",Space,Str "zus\228tzliche",Space,Str "Kosten",Space,Str "ber\252cksichtigt.",Space,Str "Die",Space,Str "hier",Space,Str "ausgewiesenen",Space,Str "Betr\228ge",Space,Str "entsprechen",Space,Str "den",Space,Str "kumulierten",Space,Str "Kosten",Space,Str "des",Space,Str "Produkts.",Space,Str "Sie",Space,Str "beinhalten",Space,Str "etwaige",Space,Str "Vertragsstrafen",Space,Str "bei",Space,Str "vorzeitigem",Space,Str "Ausstieg.",Space,Str "Bei",Space,Str "den",Space,Str "angegebenen",Space,Str "Zahlen",Space,Str "wird",Space,Str "davon",Space,Str "ausgegangen,",Space,Str "dass",Space,Str "der",Space,Str "Investor",Space,Str "CHF",Space,Str "10,000",Space,Str "anlegt.",Space,Str "Die",Space,Str "Zahlen",Space,Str "sind",Space,Str "Sch\228tzungen",Space,Str "und",Space,Str "k\246nnen",Space,Str "in",Space,Str "der",Space,Str "Zukunft",Space,Str "anders",Space,Str "ausfallen.",Space,Str "Die",Space,Str "Person,",Space,Str "die",Space,Str "dem",Space,Str "Investor",Space,Str "dieses",Space,Str "Produkt",Space,Str "verkauft",Space,Str "oder",Space,Str "ihn",Space,Str "dazu",Space,Str "ber\228t,",Space,Str "kann",Space,Str "weitere",Space,Str "Kosten",Space,Str "in",Space,Str "Rechnung",Space,Str "stellen.",Space,Str "Sollte",Space,Str "dies",Space,Str "der",Space,Str "Fall",Space,Str "sein,",Space,Str "informiert",Space,Str "die",Space,Str "Person",Space,Str "den",Space,Str "Investor",Space,Str "\252ber",Space,Str "diese",Space,Str "Kosten",Space,Str "und",Space,Str "zeigt",Space,Str "dem",Space,Str "Investor",Space,Str "auf,",Space,Str "wie",Space,Str "sich",Space,Str "s\228mtliche",Space,Str "Kosten",Space,Str "im",Space,Str "Zeitverlauf",Space,Str "auf",Space,Str "die",Space,Str "Anlage",Space,Str "des",Space,Str "Investors",Space,Str "auswirken",Space,Str "werden."]
+,Table ("",[],[]) (Caption Nothing
+ [])
+ [(AlignDefault,ColWidthDefault)
+ ,(AlignDefault,ColWidthDefault)
+ ,(AlignDefault,ColWidthDefault)
+ ,(AlignDefault,ColWidthDefault)]
+ (TableHead ("",[],[])
+ [])
+ [(TableBody ("",[],[]) (RowHeadColumns 0)
+  []
+  [Row ("",[],[])
+   [Cell ("",[],[]) AlignDefault (RowSpan 2) (ColSpan 1)
+    [Plain [Strong [Str "One-off",Space,Str "costs"]]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Strong [Str "Entry",Space,Str "costs"]]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Span ("entry_costs",["2_digits"],[]) []]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Str "The",Space,Str "impact",Space,Str "of",Space,Str "the",Space,Str "costs",Space,Str "you",Space,Str "pay",Space,Str "when",Space,Str "entering",Space,Str "your",Space,Str "investment."]]]
+  ,Row ("",[],[])
+   [Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Strong [Str "Exit",Space,Str "costs"]]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Span ("exit_costs",["2_digits"],[]) []]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Str "The",Space,Str "impact",Space,Str "of",Space,Str "the",Space,Str "costs",Space,Str "of",Space,Str "exiting",Space,Str "your",Space,Str "investement",Space,Str "when",Space,Str "it",Space,Str "matures."]]]
+  ,Row ("",[],[])
+   [Cell ("",[],[]) AlignDefault (RowSpan 2) (ColSpan 1)
+    [Plain [Strong [Str "Ongoing",Space,Str "costs"]]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Strong [Str "Portfolio",Space,Str "transaction",Space,Str "costs"]]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Span ("portfolio_transaction_costs",["2_digits"],[]) []]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Str "The",Space,Str "impact",Space,Str "of",Space,Str "the",Space,Str "costs",Space,Str "of",Space,Str "us",Space,Str "buying",Space,Str "and",Space,Str "selling",Space,Str "underlying",Space,Str "investements",Space,Str "for",Space,Str "the",Space,Str "product."]]]
+  ,Row ("",[],[])
+   [Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Strong [Str "Other",Space,Str "ongoing",Space,Str "costs"]]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Span ("other_ongoing_costs",["2_digits"],[]) []]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Str "The",Space,Str "impact",Space,Str "of",Space,Str "the",Space,Str "costs",Space,Str "that",Space,Str "we",Space,Str "take",Space,Str "each",Space,Str "year",Space,Str "for",Space,Str "managing",Space,Str "your",Space,Str "investments."]]]
+  ,Row ("",[],[])
+   [Cell ("",[],[]) AlignDefault (RowSpan 2) (ColSpan 1)
+    [Plain [Strong [Str "Incidental",Space,Str "costs"]]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Strong [Str "Performance",Space,Str "fees"]]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Span ("performance_fees",["2_digits"],[]) []]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    []]
+  ,Row ("",[],[])
+   [Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Strong [Str "Carried",Space,Str "interests"]]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    [Plain [Span ("carried_interest",["2_digits"],[]) []]]
+   ,Cell ("",[],[]) AlignDefault (RowSpan 1) (ColSpan 1)
+    []]])]
+ (TableFoot ("",[],[])
+ [])
+,Header 1 ("wie-lange-sollte-der-investor-die-anlage-halten-und-kann-der-investor-vorzeitig-geld-entnehmen",[],[]) [Str "Wie",Space,Str "lange",Space,Str "sollte",Space,Str "der",Space,Str "Investor",Space,Str "die",Space,Str "Anlage",Space,Str "halten",Space,Str "und",Space,Str "kann",Space,Str "der",Space,Str "Investor",Space,Str "vorzeitig",Space,Str "Geld",Space,Str "entnehmen?"]
+,Para [Str "Empfohlene",Space,Str "Haltedauer:",Space,Span ("RedemptionDate",[],[]) [],Space,Str "(bis",Space,Str "zum",Space,Str "R\252ckzahlungsdatum)"]
+,Para [Str "Zweck",Space,Str "dieses",Space,Str "Produktes",Space,Str "ist",Space,Str "es,",Space,Str "dem",Space,Str "Investor",Space,Str "das",Space,Str "oben",Space,Str "unter",Space,Str "Sektion",Space,Str "\8220Um",Space,Str "welche",Space,Str "Art",Space,Str "von",Space,Str "Produkt",Space,Str "handelt",Space,Str "es",Space,Str "sich?\8220",Space,Str "beschriebene",Space,Str "R\252ckzahlungsprofil",Space,Str "zu",Space,Str "bieten.",Space,Str "Die",Space,Str "M\246glichkeit",Space,Str "vom",Space,Str "positiven",Space,Str "R\252ckzahlungsprofil",Space,Str "zu",Space,Str "profitieren",Space,Str "besteht",Space,Str "nur,",Space,Str "wenn",Space,Str "der",Space,Str "Investor",Space,Str "das",Space,Str "Produkt",Space,Str "bis",Space,Str "zum",Space,Str "Verfall",Space,Str "h\228lt.",Space,Str "Es",Space,Str "gibt",Space,Str "keine",Space,Str "anderen",Space,Str "M\246glichkeiten",Space,Str "f\252r",Space,Str "den",Space,Str "Investor,",Space,Str "sein",Space,Str "Geld",Space,Str "vorzeitig",Space,Str "zu",Space,Str "entnehmen,",Space,Str "als",Space,Str "das",Space,Str "Produkt",Space,Str "au\223erb\246rslich",Space,Str "zu",Space,Str "verkaufen.",Space,Str "In",Space,Str "au\223ergew\246hnlichen",Space,Str "Marktsituationen",Space,Str "oder",Space,Str "bei",Space,Str "technischen",Space,Str "St\246rungen",Space,Str "kann",Space,Str "ein",Space,Str "Erwerb",Space,Str "bzw.",Space,Str "Verkauf",Space,Str "des",Space,Str "Produkts",Space,Str "vor\252bergehend",Space,Str "erschwert",Space,Str "oder",Space,Str "nicht",Space,Str "m\246glich",Space,Str "sein."]
+,Header 1 ("wie-kann-sich-der-investor-beschweren",[],[]) [Str "Wie",Space,Str "kann",Space,Str "sich",Space,Str "der",Space,Str "Investor",Space,Str "beschweren?"]
+,Para [Str "Beschwerden",Space,Str "\252ber",Space,Str "das",Space,Str "Produkt",Space,Str "oder",Space,Str "\252ber",Space,Str "das",Space,Str "Verhalten",Space,Str "des",Space,Str "Emittenten",Space,Str "des",Space,Str "Produkts",Space,Str "k\246nnen",Space,Str "in",Space,Str "Textform",Space,Str "an",Space,Str "die",Space,Str "folgende",Space,Str "Adresse",Space,Str "\252bermittelt",Space,Str "werden:"]
+,Plain [Span ("Issuer",[],[]) []]
+,Header 1 ("weitere-relevante-informationen",[],[]) [Str "Weitere",Space,Str "relevante",Space,Str "Informationen"]
+,Para [Str "Dieses",Space,Str "Basisinformationsblatt",Space,Str "enth\228lt",Space,Str "nicht",Space,Str "alle",Space,Str "Informationen",Space,Str "zu",Space,Str "diesem",Space,Str "Produkt.",Space,Str "Die",Space,Str "rechtlich",Space,Str "verbindlichen",Space,Str "Bedingungen",Space,Str "des",Space,Str "Produkts",Space,Str "sowie",Space,Str "eine",Space,Str "detaillierte",Space,Str "Beschreibung",Space,Str "der",Space,Str "mit",Space,Str "diesem",Space,Str "Produkt",Space,Str "verbundenen",Space,Str "Risiken",Space,Str "und",Space,Str "Chancen",Space,Str "entnehmen",Space,Str "Sie",Space,Str "bitte",Space,Str "dem",Space,Str "zugrunde",Space,Str "liegenden",Space,Str "Prospekt.",Space,Str "Der",Space,Str "Prospekt",Space,Str "ist",Space,Str "auf",Space,Link ("",[],[]) [Str "bank"] ("http://this.bank",""),Space,Str "erh\228ltlich",Space,Str "und",Space,Str "kann",Space,Str "kostenlos",Space,Str "in",Space,Str "Papierform",Space,Str "beim",Space,Str "Emittenten",Space,Str "angefordert",Space,Str "werden.",Space,Str "Die",Space,Str "in",Space,Str "diesem",Space,Str "Dokument",Space,Str "enthaltenen",Space,Str "Informationen",Space,Str "stellen",Space,Str "keine",Space,Str "Empfehlung",Space,Str "zum",Space,Str "Kauf",Space,Str "oder",Space,Str "Verkauf",Space,Str "des",Space,Str "Produkts",Space,Str "dar",Space,Str "und",Space,Str "sind",Space,Str "kein",Space,Str "Ersatz",Space,Str "f\252r",Space,Str "eine",Space,Str "individuelle",Space,Str "Beratung",Space,Str "durch",Space,Str "die",Space,Str "Bank",Space,Str "oder",Space,Str "den",Space,Str "Berater",Space,Str "des",Space,Str "Anlegers.",Space,Str "Jede",Space,Str "aktualisierte",Space,Str "Version",Space,Str "dieses",Space,Str "Basisinformationsblatts",Space,Str "wird",Space,Str "ver\246ffentlicht",Space,Str "unter:",Space,Link ("",[],[]) [Str "bank"] ("http://this.bank","")]]
